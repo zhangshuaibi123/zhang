@@ -12,5 +12,11 @@ public interface UserDao {
 	 * 
 	 */
 	void upadte();
-
+	
+	/**
+	 * 这是删除方法
+	 * 
+	 */
+	 
+	void delet();
 }
